@@ -11,6 +11,6 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 ### Mes languages, outils et Framework:
 
-<img src="https://www.developpez.com/public/images/news/js002.png" width="50px" height="50px">  <img src="https://miro.medium.com/max/900/1*OrjCKmou1jT4It5so5gvOA.jpeg" width="50px" height="50px">
+<img src="https://www.developpez.com/public/images/news/js002.png" width="50px" height="50px">      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ82nLTDMV2BqyMyy6ZXIB45BXppZSZ7VXLC3Ooym2J3TpHC3uZcrNFz0HYpQQ_ODVK9Mg&usqp=CAU" width="50px" height="50px">
 
  Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
