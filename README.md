@@ -1,6 +1,6 @@
 ## Hey Humans !
 
-Moi, c'est **Laurencia BEHANZIN**, <font color=red>21ans</font>.
+Moi, c'est **Laurencia BEHANZIN**, <font color="yellow">21ans</font>.
 
 
 [Default](#){.btn .btn-default}
