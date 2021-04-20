@@ -1,6 +1,6 @@
 ## Hey Humans !
 
-Moi, c'est **Laurencia BEHANZIN**,  <span style='color:green'>21ans</span>.
+Moi, c'est **Laurencia BEHANZIN**, 21ans.
 
 Actuellement en deuxième année à [EPITECH BENIN](https://www.epitech.bj), je suis également développeuse Web Front-end en freelance. Ma spécialité ! c'est les animations...
 
@@ -10,5 +10,7 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 **The process will take time, but i will.**
 
 ### Mes languages, outils et Framework:
+
+![image](https://www.developpez.com/public/images/news/js002.png)
 
 Javascript, Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
