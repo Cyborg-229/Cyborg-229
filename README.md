@@ -11,7 +11,6 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 ### Mes languages, outils et Framework:
 
-<img src="https://www.developpez.com/public/images/news/js002.png" width="50px" height="50px">
-<img src="https://leansys-training.fr/wp-content/uploads/2019/03/vuejs-1024x1024.jpg" width="50px" height="50px">
+<img src="https://www.developpez.com/public/images/news/js002.png" width="50px" height="50px">  <img src="https://miro.medium.com/max/900/1*OrjCKmou1jT4It5so5gvOA.jpeg" width="50px" height="50px">
 
  Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
