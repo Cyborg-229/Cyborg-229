@@ -13,4 +13,7 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 ![](https://www.developpez.com/public/images/news/js002.png)
 
+
+<img src="https://www.developpez.com/public/images/news/js002.png" width="50px" height="50px">
+
 Javascript, Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
