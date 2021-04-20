@@ -11,6 +11,14 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 ### Mes languages, outils et Framework:
 
-<img src="https://www.developpez.com/public/images/news/js002.png" width="50px" height="50px">      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ82nLTDMV2BqyMyy6ZXIB45BXppZSZ7VXLC3Ooym2J3TpHC3uZcrNFz0HYpQQ_ODVK9Mg&usqp=CAU" width="50px" height="50px">
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px">      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp5AD9Rjg1jFR_rwCmjPx6BvvycjwXo7m3JN3aGTfiA7SIIJIlTC0drTDCxAWqtjm4YCg&usqp=CAU" width="100px" height="100px">
 
- Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
+<img src="https://www.developpez.com/public/images/news/js002.png" width="100px" height="100px"> 
