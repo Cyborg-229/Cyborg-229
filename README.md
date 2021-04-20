@@ -1,16 +1,6 @@
-## Hey Humans !
+## Hey Humans ! {align=center} 
 
 Moi, c'est **Laurencia BEHANZIN**, <font color="yellow">21ans</font>.
-
-
-[Default](#){.btn .btn-default}
-[Primary](#){.btn .btn-primary}
-[Info](#){.btn .btn-info}
-[Success](#){.btn .btn-success}
-[Warning](#){.btn .btn-warning}
-[Danger](#){.btn .btn-danger}
-[Link](#){.btn .btn-link}
-
 
 Actuellement en deuxième année à [EPITECH BENIN](https://www.epitech.bj), je suis également développeuse Web Front-end en freelance. Ma spécialité ! c'est les animations...
 
