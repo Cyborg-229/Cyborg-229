@@ -2,7 +2,15 @@
 
 Moi, c'est **Laurencia BEHANZIN**, <font color=red>21ans</font>.
 
-[color=#26B260]texte coloré en vert[/color]
+
+[Default](#){.btn .btn-default}
+[Primary](#){.btn .btn-primary}
+[Info](#){.btn .btn-info}
+[Success](#){.btn .btn-success}
+[Warning](#){.btn .btn-warning}
+[Danger](#){.btn .btn-danger}
+[Link](#){.btn .btn-link}
+
 
 Actuellement en deuxième année à [EPITECH BENIN](https://www.epitech.bj), je suis également développeuse Web Front-end en freelance. Ma spécialité ! c'est les animations...
 
