@@ -1,2 +1,3 @@
 # My_github_looks
-Hey ! Discover me here...
+
+Hey ! Moi, c'est *Laurencia BEHANZIN*, 21ans.
