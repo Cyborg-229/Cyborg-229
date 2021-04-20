@@ -11,6 +11,6 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 ### Mes languages, outils et Framework:
 
-![image](https://www.developpez.com/public/images/news/js002.png)
+![](https://www.developpez.com/public/images/news/js002.png)
 
 Javascript, Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
