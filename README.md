@@ -1,6 +1,7 @@
 # My_github_looks
 
-# Hey Humans !
+<div align="center"><h2>Hey Humans !</h2></div>
+
 
 Moi, c'est **Laurencia BEHANZIN**, 21ans [color=#FF3300]Texte[/color].
 
@@ -11,6 +12,6 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 **The process will take time, but i will.**
 
-<div align="center"> <h2>Mes languages, outils et Framework:</h2> </div>
+## Mes languages, outils et Framework:
 
 Javascript, Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
