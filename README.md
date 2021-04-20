@@ -2,7 +2,7 @@
 
 # Hey Humans !
 
-Moi, c'est **Laurencia BEHANZIN**, 21ans [color=red]Texte[/color].
+Moi, c'est **Laurencia BEHANZIN**, 21ans <font color=red>Texte</font>.
 
 Actuellement en deuxième année à [EPITECH BENIN](https://www.epitech.bj), je suis également développeuse Web Front-end en freelance. Ma spécialité ! c'est les animations...
 
