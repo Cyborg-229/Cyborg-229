@@ -1,9 +1,8 @@
-My_github_looks
-
 ## Hey Humans !
 
+Moi, c'est **Laurencia BEHANZIN**, <font color=red>21ans</font>.
 
-Moi, c'est **Laurencia BEHANZIN**, 21ans [color=#FF3300]Texte[/color].
+[color=#26B260]texte coloré en vert[/color]
 
 Actuellement en deuxième année à [EPITECH BENIN](https://www.epitech.bj), je suis également développeuse Web Front-end en freelance. Ma spécialité ! c'est les animations...
 
