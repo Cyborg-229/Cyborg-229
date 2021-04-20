@@ -11,6 +11,6 @@ L'un de mes objectifs est de révolutionner le monde du WEB dans mon pays, le **
 
 **The process will take time, but i will.**
 
-<div align="center">Mes languages, outils et Framework:</div>
+<div align="center"> <h2>Mes languages, outils et Framework:</h2> </div>
 
 Javascript, Vue JS, Anime JS, c, c++, Haskell, Markdown, python, github, heroku, flutter,
